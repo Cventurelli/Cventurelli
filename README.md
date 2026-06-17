@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## Carlos Alejandro Venturelli
 
 ¡Hola! Soy Carlos, Ingeniero Industrial en activo proceso de reconversión hacia el sector tecnológico como **Desarrollador Backend**. Vengo de una trayectoria extensa liderando áreas comerciales, gestionando proyectos técnicos complejos y coordinando iniciativas comunitarias (actualmente como Presidente de Junta de Vecinos). 
 
