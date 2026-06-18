@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Carlos;Ingeniero+%7C+Desarrollador+Backend;Reconversi%C3%B3n+Prof.+hacia+TI;Java+%2F+Spring+Boot+%2F+Data+Science" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Carlos;Profesional+en+reconversi%C3%B3n;Desarrollador+Backend+Java+%2F+Spring+Boot" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Cventurelli&color=2E9EF7&style=flat" alt="Profile views" />
 
@@ -10,15 +10,11 @@
 
 ## Carlos Alejandro Venturelli
 
-¡Hola! Soy Carlos, Ingeniero Industrial en activo proceso de reconversión hacia el sector tecnológico como **Desarrollador Backend**. Vengo de una trayectoria extensa liderando áreas comerciales, gestionando proyectos técnicos complejos y coordinando iniciativas comunitarias (actualmente como Presidente de Junta de Vecinos). 
-
-Hoy, aplico toda mi experiencia en liderazgo, análisis de indicadores y resolución de problemas para construir software escalable, estructurado y orientado a solucionar necesidades reales.
-
-* 💻 **Backend:** Especializado en **Java y Spring Boot**. Utilizo mi visión ingenieril para diseñar arquitecturas limpias y bases de datos relacionales bien estructuradas, asegurando eficiencia desde los cimientos.
-* 📊 **Data Science:** Aplico mi experiencia previa en análisis de riesgos y tableros de gestión (reducción de morosidad, mejora de conversión) al mundo de la **Ciencia de Datos** mediante el uso de Python, SQL y entornos Jupyter.
-* 🤝 **Gestión y Liderazgo:** Mi experiencia en roles de coordinación territorial (INE, SERVEL) y dirección de equipos me aporta una sólida base en habilidades blandas: comunicación efectiva, planificación estratégica a largo plazo y trabajo colaborativo.
-* 🤖 **Innovación:** Integro activamente la **Inteligencia Artificial** en mi flujo de trabajo, explorando el uso de LLMs para asistir en la generación de código y reforzar la ciberseguridad.
-
+- 🔄 Estoy en un proceso de reconversión profesional hacia el desarrollo de software.
+- 💻 Doy mis primeros pasos serios como desarrollador backend con **Java** y el ecosistema **Spring**.
+- 📊 De forma puntual, también incursiono en proyectos de ciencia de datos.
+- 📚 Cuando no estoy programando, disfruto de mi familia.
+- 🌱 Sigo aprendiendo cada día sobre arquitectura de software, buenas prácticas y bases de datos.
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -39,8 +35,7 @@ Hoy, aplico toda mi experiencia en liderazgo, análisis de indicadores y resoluc
 Sistema de gestión para una escuela de artes marciales: control de alumnos, asistencia y módulo académico.
 `Java` · `Spring Boot` · `Thymeleaf` · `JPA / Hibernate` · `MySQL`
 
-**📊 [UDD-C4-DS-PROYECTO-7](https://github.com/Cventurelli/UDD-C4-DS-PROYECTO-7)**
-Proyecto de ciencia de datos desarrollado en Jupyter Notebook.
+<sub>También cuento con algunos proyectos exploratorios de ciencia de datos, como [UDD-C4-DS-PROYECTO-7](https://github.com/Cventurelli/UDD-C4-DS-PROYECTO-7).</sub>
 
 ## 📈 Estadísticas de GitHub
 
@@ -57,6 +52,7 @@ Proyecto de ciencia de datos desarrollado en Jupyter Notebook.
 
 <p align="left">
 <a href="https://linkedin.com/in/carlos-venturelli-3a12ab29"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:cventurelli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="center">
@@ -64,3 +60,4 @@ Proyecto de ciencia de datos desarrollado en Jupyter Notebook.
 *Gracias por visitar mi perfil ✨*
 
 </div>
+
