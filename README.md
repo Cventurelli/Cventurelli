@@ -13,7 +13,7 @@
 - 🔄 Estoy en un proceso de reconversión profesional hacia el desarrollo de software.
 - 💻 Doy mis primeros pasos serios como desarrollador backend con **Java** y el ecosistema **Spring**.
 - 📊 De forma puntual, también incursiono en proyectos de ciencia de datos.
-- 📚 Cuando no estoy programando, disfruto de mi familia.
+- 📚 Cuando no estoy programando, disfruto de los clásicos de la literatura universal.
 - 🌱 Sigo aprendiendo cada día sobre arquitectura de software, buenas prácticas y bases de datos.
 
 ## 🛠️ Tecnologías y herramientas
@@ -52,7 +52,7 @@ Sistema de gestión para una escuela de artes marciales: control de alumnos, asi
 
 <p align="left">
 <a href="https://linkedin.com/in/carlos-venturelli-3a12ab29"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:cventurelli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=cventurelli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="center">
@@ -60,4 +60,3 @@ Sistema de gestión para una escuela de artes marciales: control de alumnos, asi
 *Gracias por visitar mi perfil ✨*
 
 </div>
-
